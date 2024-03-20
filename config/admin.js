@@ -15,3 +15,6 @@ module.exports = ({ env }) => ({
     promoteEE: env.bool('FLAG_PROMOTE_EE', true),
   },
 });
+
+
+// local pw: Test123456
