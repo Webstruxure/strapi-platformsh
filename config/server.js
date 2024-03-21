@@ -8,3 +8,5 @@ module.exports = ({ env }) => ({
     populateRelations: env.bool('WEBHOOKS_POPULATE_RELATIONS', false),
   },
 });
+
+// define app keys as an env variable
