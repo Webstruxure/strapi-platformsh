@@ -8,4 +8,4 @@ mariadb:
     type: mariadb:11.2
     # The disk attribute is the size of the persistent disk (in MB) allocated to the service.
     disk: 256
-
+#
