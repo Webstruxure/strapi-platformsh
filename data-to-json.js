@@ -40,3 +40,6 @@ db.close((err) => {
     console.log('Disconnected from the SQLite database.');
   }
 });
+
+// to run this:
+// node data-to-json.js
